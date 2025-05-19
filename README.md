@@ -1,2 +1,2 @@
 # TestUniTreeModResourceMode
-Тестирование UniTree от PVTables в режиме связи с ресурсами MODX.
+Тестирование UniTree от PVTables в режиме редактирования ресурсов MODX.
