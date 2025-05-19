@@ -1,0 +1,1 @@
+import{ref as r,openBlock as o,createBlock as s,unref as c,createApp as m}from"vue";import n,{UniTreePanel as u}from"pvtables/dist/pvtables";const p={__name:"App",setup(a){const t=r({modResource2:{type:"tree",title:"modResource2",table:"modResource2"}});return(l,_)=>(o(),s(c(u),{treetabs:t.value},null,8,["treetabs"]))}},e=m(p);e.use(n);e.mount("#testunitreemodresourcemode");
